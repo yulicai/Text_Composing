@@ -1,0 +1,5 @@
+python wordCount_textBlob_tag.py  <bring_in_the_wine.txt >male.txt
+
+python wordCount_textBlob_tag.py <little_over_lapping_hills.txt >female.txt
+
+python combineTwoFiles.py male.txt female.txt >final.txt
