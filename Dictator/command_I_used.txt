@@ -1,0 +1,5 @@
+python random_glue.py <whole_interview_content.txt >I_Want.txt
+
+python you_do.py <whole_interview_content.txt >you_do.txt
+
+python combineTwoFiles.py I_Want.txt you_do.txt >final.txt
