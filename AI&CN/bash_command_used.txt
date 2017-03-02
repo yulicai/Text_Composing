@@ -1,0 +1,7 @@
+python aiweiwei_simplified.py >nytimes.txt
+
+python aiweiwei_simplified_bbc1.py >lego_bulk_bbc1.txt
+
+python words_selector.py <nytimes.txt >ai_and_cn.txt
+
+python words_selector.py <all_text.txt >all_text_ai_cn.txt
