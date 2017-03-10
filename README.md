@@ -16,3 +16,7 @@ A collection of text manipulating and scraping through python.
 <img src = "https://github.com/yulicai/Text_Composing/raw/master/images/result_all_text.png" width = "500">
 
 <img src = "https://github.com/yulicai/Text_Composing/raw/master/images/result_nytimes.png" width = "500">
+
+**4. Today's Nerver Ending Food Stories**
+
+<img src = "https://github.com/yulicai/Text_Composing/raw/master/images/result_food_stories_w5.png" width = "500">
