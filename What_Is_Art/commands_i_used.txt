@@ -1,0 +1,1 @@
+python isosceles_right_triangle.py 10 <art_is.txt >>what_is_art.txt
