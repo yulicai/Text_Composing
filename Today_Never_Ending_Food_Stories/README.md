@@ -4,12 +4,12 @@
 <img src = "https://github.com/yulicai/Text_Composing/raw/master/images/result_food_stories_w5.png" width = "500">
 
 <br />
-**Feed the program with two parameters**
+* Feed the program with two parameters
 <br />
 The first one is the key word for search term, e.g. Food
 <br />
 The second one is the location of where the results going to be based on
 
-**Get the category, cross streets and snippet reviews from the search result business**
+* Get the category, cross streets and snippet reviews from the search result business
 <br />
-**Randomly choose from them to generate the poem**
+* Randomly choose from them to generate the poem 

@@ -1,8 +1,8 @@
-#What is ARt
+# What is ARt
 
 <img src = "https://github.com/yulicai/Text_Composing/raw/master/images/result_what_is_art.png" width = "500">
 
-##Isosceles Right Triangle - a new poetic form
+## Isosceles Right Triangle - a new poetic form
 This Isosceles Right Triangle poetic form has a shape of isosceles right triangle in the end. Addressing the side length of the triangle at the first place will be the main factor of it.
 
 * The words number of the first line will be the length of the side triangle.
@@ -10,7 +10,7 @@ This Isosceles Right Triangle poetic form has a shape of isosceles right triangl
 * The first word of each line starts from a phone of AA1 R (referencing art)
 
 
-##Some results coming from it
+## Some results coming from it
 <pre><code>
 arias is the Queen of all sciences communicating knowledge to
 aaronson is much less important than life, but what

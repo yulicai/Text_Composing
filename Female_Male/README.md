@@ -12,7 +12,7 @@ The poem composed by the male poet is called Bring In The Wine; The poem compose
 <img src = "https://github.com/yulicai/Text_Composing/raw/master/Female_Male/poems_comparation.png" width = "500">
 <br />
 
-**The process I made the final poem.**
+## The process I made the final poem. 
 
 * Use textblob to identify the tags of words, like noun, verbs.
 * Create a python function file to count the top 10 words that show up the most in each poem.
